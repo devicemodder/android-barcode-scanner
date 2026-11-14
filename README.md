@@ -36,6 +36,7 @@ Some details remain under investigation. See the linked notes before relying on 
 - [USB-C / OTG investigation](docs/usb-otg-investigation.md)
 - [Rooting and Termux setup](docs/rooting-and-termux.md)
 - [Firmware handling and safety](docs/firmware-safety.md)
+- [Research notebook](research/README.md)
 
 ## Evidence and confidence
 
