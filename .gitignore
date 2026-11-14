@@ -1,0 +1,29 @@
+# Raw firmware and disk images
+*.img
+*.bin
+*.elf
+*.mbn
+*.7z
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.xz
+
+# Device-specific and sensitive data
+*.key
+*.pem
+*.p12
+*.pfx
+*.keystore
+*.jks
+*.log
+.env
+.env.*
+
+# Local tooling / temporary output
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.orig
